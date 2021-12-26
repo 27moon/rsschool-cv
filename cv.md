@@ -11,3 +11,9 @@ I am eager to learn new things and highly motivated to constantly develop my ski
 ### Skills: ###
 - HTML
 - CSS
+
+### Education: ###
+
+- Code Basics: HTML
+- Code Basics: CSS
+- The Rolling Scopes School (December,  2021 - present)
