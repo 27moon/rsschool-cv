@@ -328,6 +328,9 @@ body {
       background-size: 100%;
       opacity: 40%;
   }
+  .btn-open {
+    cursor: pointer;
+  }
   @media (max-width:1200px) {
       .project-item {
           width: 400px;
