@@ -1,9 +1,7 @@
 # Marta Vaitsiakhouskaya
 ### Contact: ###
 
-email: emeraldraven27@gmail.com
 discord: 27moon
-telegram: @marta2727
 
 ### About me: ###
 
